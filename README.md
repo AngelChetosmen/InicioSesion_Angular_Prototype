@@ -30,18 +30,7 @@ Asegúrate de configurar las variables de entorno adecuadamente para la conexió
 
 > [!WARNING]
 La aplicación no incluye validaciones de seguridad avanzadas. Este es solo un prototipo y no debe usarse en producción sin las adecuadas medidas de seguridad.
-
-##Uso
-Respetando las políticas de licencia y uso de ética correspondiente, para el uso de este repositorio se debe que hacer lo siguiente:
-
-1.- Clona este repositorio:
-```bash
-    git clone https://github.com/AngelChetosmen/InicioSesion_Angular_Prototype.git
-```
-2.- Importa el proyecto en tu IDE de preferencia. En nuestro caso se llevó a cabo su implementación en Visual Studio Code. 
-
-3.- Compila y ejecuta el proyecto para ver su previsualización desde Angular. 
-
+ 
 ## Requisitos
 
 - **Node.js** y **npm**
@@ -68,7 +57,17 @@ Respetando las políticas de licencia y uso de ética correspondiente, para el u
     ```
 
 ## Uso
+Respetando las políticas de licencia y uso de ética correspondiente, para el uso de este repositorio se debe que hacer lo siguiente:
 
+1.- Clona este repositorio:
+```bash
+    git clone https://github.com/AngelChetosmen/InicioSesion_Angular_Prototype.git
+```
+2.- Importa el proyecto en tu IDE de preferencia. En nuestro caso se llevó a cabo su implementación en Visual Studio Code. 
+
+3.- Compila y ejecuta el proyecto para ver su previsualización desde Angular.
+
+--
 1. Abre tu navegador y ve a `http://localhost:4200`.
 2. Usa las credenciales de prueba para iniciar sesión o registra un nuevo usuario.
 
